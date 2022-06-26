@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kranthiraju&label=Profile%20views&color=0e75b6&style=flat" alt="kranthiraju" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis, Machine Learning, Django, Redux**
+- 🌱 I’m currently learning **Machine Learning, Data Analysis, Redux, Next.Js**
 
 - 👯 I’m looking to collaborate on [Recommend You](https://recommend-you.netlify.app/home)
 
-- 💬 Ask me about **React.Js, Node.Js, MongoDB, Python**
+- 💬 Ask me about **React.Js, Python, Node.Js, MongoDB**
 
 - 📫 How to reach me **vajrapusugnankranthiraju@gmail.com**
 
